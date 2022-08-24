@@ -5,11 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditipanda" alt="aditipanda" /></a> </p>
 
+- 🌱 I’m currently learning **Natural Language Processing and its applications to Psychology and Psychiatry.**
+
 - 👯 I’m looking to collaborate on **a project for Depression and Anxiety Detection in Movie and Books Characters**
 
 - 📝 I regularly write articles on [https://medium.com/@pandaaditi91](https://medium.com/@pandaaditi91)
 
 - 💬 Ask me about **CNNs, GANs, Image Analysis Pipelines**
+
+- 📫 How to reach me **pandaaditi91@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1fMBQAz1Od-rz9uMwGVnJPyy4n2D0XeTg/view?usp=sharing](https://drive.google.com/file/d/1fMBQAz1Od-rz9uMwGVnJPyy4n2D0XeTg/view?usp=sharing)
+
+- ⚡ Fun fact **I always forget what life teaches me! BAAAAD-Deep Network :-)**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
