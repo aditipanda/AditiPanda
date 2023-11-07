@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **pandaaditi91@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fMBQAz1Od-rz9uMwGVnJPyy4n2D0XeTg/view?usp=sharing](https://drive.google.com/file/d/1fMBQAz1Od-rz9uMwGVnJPyy4n2D0XeTg/view?usp=sharing)
-
 - ⚡ Fun fact **I always forget what life teaches me! Not a good deep model :-)**
 
 ### Blogs posts
