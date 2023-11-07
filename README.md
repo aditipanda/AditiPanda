@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dr. Aditi!</h1>
 <h3 align="center">I love developing Deep Learning architectures that run a tad bit faster, and are a ton lighter than their counterparts. If you are passionate about SOTA applied AI/ML applications and love reading/coding latest research papers, DM me for collaborations.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditipanda&label=Profile%20views&color=0e75b6&style=flat" alt="aditipanda" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditipanda" alt="aditipanda" /></a> </p>
 
 - 🌱 I’m currently learning **XAI for building Reliable Lifestyle Practice Tools in PCOS Patients.**
 
