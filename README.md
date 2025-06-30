@@ -1,5 +1,5 @@
-- 📝 Medium articles on [https://medium.com/@pandaaditi91](https://medium.com/@pandaaditi91)
+Hello, fellow geek!  
 
-- 📫 Reach me: **pandaaditi91@gmail.com**
+- 📫 Always looking to collaborate: reach me @ **pandaaditi91@gmail.com**
 
 
